@@ -18,6 +18,10 @@
   "icon": "website",
   "pages": [
     {
+      "id": "Time Log",
+      "isDefault": false
+    },
+    {
       "id": "GRWDSel",
       "isDefault": true
     },
