@@ -32,6 +32,10 @@
     {
       "id": "Widgets+Users",
       "isDefault": false
+    },
+    {
+      "id": "Public.users",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
