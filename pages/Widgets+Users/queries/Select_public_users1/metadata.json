@@ -29,7 +29,7 @@
     ],
     "name": "Select_public_users1",
     "pageId": "Widgets+Users",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
